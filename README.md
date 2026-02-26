@@ -39,11 +39,12 @@ La aplicación:
 ### Pantalla Inicio
 ![alt text](image.png)
 
-### Pantalla Principal
+### Mensaje de salida
+<img width="778" height="1600" alt="image" src="https://github.com/user-attachments/assets/b5cfffa1-618d-43a2-9ab4-e5fb1b419e8d" />
+
+### Mensaje sobre la ubicacion
 <img width="778" height="1600" alt="image" src="https://github.com/user-attachments/assets/0783c9dc-dbab-484f-82f0-32a19a29800e" />
 
-### Mensaje sobre ubicacion
+### Mensaje de salida
 <img width="778" height="1600" alt="image" src="https://github.com/user-attachments/assets/4ed46aeb-8a8e-48ad-9a7f-397d225cf76d" />
 
-### Mensaje de salida
-![Uploading image.png…]()
