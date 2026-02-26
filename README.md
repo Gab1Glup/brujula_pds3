@@ -54,7 +54,7 @@ La aplicación:
 La versión estable 1.0 de la aplicación se encuentra disponible en la sección de Releases del repositorio.
 
 ### Descargar APK:
-👉 Ir a: **Releases → Version 1.0 **
+👉 Ir a: ** Releases → Version 1.0 **
 
 Nombre del archivo:
 brujula_unison.apk
