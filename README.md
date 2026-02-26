@@ -48,3 +48,13 @@ La aplicación:
 ### Mensaje de salida
 <img width="778" height="1600" alt="image" src="https://github.com/user-attachments/assets/4ed46aeb-8a8e-48ad-9a7f-397d225cf76d" />
 
+
+## 📦 Release 1.0
+
+La versión estable 1.0 de la aplicación se encuentra disponible en la sección de Releases del repositorio.
+
+### Descargar APK:
+👉 Ir a: **Releases → Version 1.0 **
+
+Nombre del archivo:
+brujula_unison.apk
